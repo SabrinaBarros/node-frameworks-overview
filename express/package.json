@@ -1,0 +1,22 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SabrinaBarros/node-frameworks-overview.git"
+  },
+  "author": "SabrinaBarros",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SabrinaBarros/node-frameworks-overview/issues"
+  },
+  "homepage": "https://github.com/SabrinaBarros/node-frameworks-overview#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
